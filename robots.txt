@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-bez-verifikacii-na-ayfon.github.io
+Sitemap: https://kazino-bez-verifikacii-na-ayfon.github.io/sitemap.xml
